@@ -1,0 +1,8 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+the remote is more user friendly.
+the best practice would be smth like this. Create a remote and pull to local. lots of ppl 
+pull to local and start working on diff section of code. when someone finishes, they push 
+the changes to the remote. Even if they haven't finished, they can pull to update their code.
+But this somehow intersects with what a branch does. Well, there is also the bonus of no internet
+connection to work on local. you can also merge in local and test before merging in remote.
