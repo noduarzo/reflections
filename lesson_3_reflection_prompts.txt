@@ -27,3 +27,7 @@ you want to personalize the solution, ie compleatly detached to it.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 only with that info can you know how to merge when you push
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+difficult. sending files over internet?
