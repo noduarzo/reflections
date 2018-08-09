@@ -13,3 +13,13 @@ thats a good question. pull specifies a branch tip, and copies all reachable com
 checkout with no problem. so the answer is maybe because you don't necesarily are working on the
 lastest commit, that maybe introduced a bug or watnot. you are maybe on another commit using checkout.
 or maybe you are offline and don't have internet or pulling can merge what you were doing so yeah.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+they all seem similar right?
+a branch is just a commit that does not affect the master branch. here you can make changes before
+merging them, or discarting them without affecting the master branch.
+a clone copies all files and metadata of a repository, which includes all branches even unreachable
+commits.
+a fork is like a clone but on github, used when you can push changes on the original, or when
+you want to personalize the solution, ie compleatly detached to it.
