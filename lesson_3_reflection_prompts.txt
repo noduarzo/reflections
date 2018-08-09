@@ -23,3 +23,7 @@ a clone copies all files and metadata of a repository, which includes all branch
 commits.
 a fork is like a clone but on github, used when you can push changes on the original, or when
 you want to personalize the solution, ie compleatly detached to it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+only with that info can you know how to merge when you push
